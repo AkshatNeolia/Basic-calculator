@@ -16,7 +16,7 @@ A simple GUI-based calculator built using Python and Tkinter.
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Basic-Calculator.git
+   git clone https://github.com/AkshatNeolia/Basic-Calculator.git
    cd Basic-Calculator
    ```
 2. Run the script:
@@ -29,14 +29,5 @@ A simple GUI-based calculator built using Python and Tkinter.
 - Press `=` to evaluate.
 - Press `C` to clear the input.
 
-## Screenshot
-![Calculator UI](image.png)
-
 ### Picture of Calculator
-![Output Screenshot](mnt/data/image.png)
-
-## License
-This project is licensed under the MIT License.
-
----
-Feel free to contribute by improving the UI or adding new features!
+![Screenshot 2025-02-09 133806](https://github.com/user-attachments/assets/1571dea3-7756-4738-9fbe-ff1384883486)
